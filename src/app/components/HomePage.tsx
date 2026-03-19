@@ -85,7 +85,7 @@ function HeroSection() {
       <div className="absolute inset-0 flex flex-col items-center justify-center gap-[24px] px-[64px] pt-[60px]">
         <div className="bg-[rgba(1,255,135,0.1)] flex items-center justify-center px-[18px] py-[9px] rounded-[100px] relative">
           <div aria-hidden className="absolute border-[0.611px] border-[rgba(1,255,135,0.3)] border-solid inset-0 pointer-events-none rounded-[100px]" />
-          <p className="font-['Clash_Grotesk:Regular',sans-serif] leading-[1.2] text-[#00ef8b] text-[18px] whitespace-nowrap">Global, always-on, and in real-time. ✓</p>
+          <p className="font-['Clash_Grotesk:Regular',sans-serif] leading-[1.2] text-[#00ef8b] text-[18px] whitespace-nowrap">Global, always-on, and in real-time.</p>
         </div>
         <p className="font-['Clash_Grotesk:Bold',sans-serif] leading-none text-[72px] text-center text-white uppercase max-w-[1091px]">Turn decentralized finance into personal finance</p>
         <p className="font-['Clash_Grotesk:Regular',sans-serif] leading-[1.2] text-[18px] text-[rgba(255,255,255,0.75)] text-center max-w-[705px]">
